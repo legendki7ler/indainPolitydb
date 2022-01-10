@@ -1,8 +1,64 @@
 {
-    "listname": "chapters",
     "chapters": [
         {
-            "name": "Historical Background"
+            "name": "Historical Background",
+            "questions": [
+                {
+                    "q" : [
+                        "(i)The British came to India as traders in the form of East India Company.",
+                        "(ii)The EIC had exclusive right of trading in India under the charter granted by King William I.",
+                        "Which of the above statements is correct?"
+                    ],
+                    "a" : "(i) and (ii)",
+                    "b" : "only (i)",
+                    "c" : "only (ii)",
+                    "d" : "None of them",
+                    "ra" : "b"
+                },
+                {
+                    "q" : [
+                        "(i)Shah Alam granted the Diwani to EIC in 1765 after the battle of Buxar.",
+                        "(ii)Diwani Stands for rights over revenue and criminal justice.",
+                        "Which of the following is incorrect?"
+                    ],
+                    "a" : "(i) only",
+                    "b" : "(i) and (ii)",
+                    "c" : "(ii) only",
+                    "d" : "None of them",
+                    "ra" : "a"
+
+                },
+                {
+                    "q" : [
+                        "(i)Regulating Act, 1773 was the 1st step taken by British government to control and regulate the affairs of East India Company.",
+                        "(ii)It was the 1st step towards decentralization of powers in India.",
+                        "(iii)Supreme Court was established in 1773 in Calcutta under this act.",
+                        "(iv)Governor General in Council would consist of 4 members.",
+                        "Which of the statements is correct about the Regualation Act, 1773?"
+                    ],
+                    "a" : "(i), (ii), (iii), (iv)",
+                    "b" : "(i), (iii), (iv)",
+                    "c" : "(i), (iv)",
+                    "d" : "(ii), (iii), (iv)",
+                    "ra" : "c"
+                },
+                {
+                    "q" : [
+                        "Consider the following statements:",
+                        "(i)Robert Clive was the 1st governor of Bengal.",
+                        "(ii)William Bentick became the 1st governor-general of India.",
+                        "(iii)Lord MintoII was the viceroy during the swadeshi movement.",
+                        "(iv)Lord Luis Mountbatten was the last viceroy of British India.",
+                        "Which of the statements is true?"
+                    ],
+                    "a" : "(i), (ii), (iii), (iv)",
+                    "b" : "(ii), (iv)",
+                    "c" : "(i), (ii), (iv)",
+                    "d" : "(ii), (iii), (iv)",
+                    "ra" : "(i), (ii), (iii), (iv)"
+                }
+            ]
+
         },
         {
             "name" : "Making of the Constitution"
@@ -21,4 +77,5 @@
         }
 
     ]
+
 }
